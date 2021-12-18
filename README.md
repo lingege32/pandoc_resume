@@ -1,6 +1,8 @@
 The Markdown Resume
 ===================
 
+&#f973;
+
 ### Instructions
 
 ```bash

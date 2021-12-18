@@ -1,7 +1,9 @@
 The Markdown Resume
 ===================
 
-&#f973;
+&#9658;
+&#767;
+&#2400;
 
 ### Instructions
 

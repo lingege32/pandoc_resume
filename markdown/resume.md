@@ -1,5 +1,23 @@
-Johnny Coder
+Chien Hung Lin 
 ============
+<div style="text-align:left;">
+    <i class="fa fa-graduation-cap"></i> MS, National Chiao Tung University, Institute of Eletronic
+    <span style="float:right;">
+        2017 - 2019
+    </span>
+</div>
+<div style="text-align:left;">
+    <i class="fa fa-envelope"></i> lingege32@gamil.com
+    <span style="float:right;">
+        <i class="fa fa-phone"></i> 0921-0432-87
+    </span>
+</div>
+<div style="text-align:left;">
+    <i class="fa fa-phone"></i> 
+    <span style="float:right;">
+        2017 - 2019
+    </span>
+</div>
 
 ----
 
@@ -8,6 +26,8 @@ Johnny Coder
 >  quote. Ending a line with a backslash forces a line break.
 
 ----
+
+<i class="fa fa-graduation-cap"></i> MS, National Chiao Tung University
 
 Education
 ---------
